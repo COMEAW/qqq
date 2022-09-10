@@ -1,0 +1,28 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx0f8251534ec021ff",
+# 公众号appSecret
+"app_secret": "b45682fd4a7d845b107fe7c8bd41386a",
+# 模板消息id
+"template_id": "oc-1X66lcxhD2wUs84zOTwvVoZXQ",
+# 接收公众号消息的微信号，
+"user": ["oc-1X67URzVMMwqpZirlmZerd9O8"，"oc-1X6y_lwW2XQ6k3iAXkblxAkzk"],
+ 
+# 信息配置
+# 和风天气apikey
+"weather_key": "	
+97f94ce52aca4d6bbe5535751874ac6b",
+# 天行数据apikey
+"tian_api": "9a0cd28fa473fb663a462a331ad3b0e7",
+# 所在地区，
+"region": "诸暨市",
+# 生日
+"birthday1": {"name": "你这个小笨蛋生日", "birthday": "2003-08-05"},
+# 在一起的日子，
+"love_date": "2022-08-23",
+# 金句中文
+"note_ch": "努力奔跑总会遇见美好的你",
+# 金句英文
+"note_en": "Distance does not meanseparation"
+}
